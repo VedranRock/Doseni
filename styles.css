@@ -22,3 +22,11 @@
     width: 50%;
     float: right;
 }
+
+.deca {
+    font-size: 22px;
+    font: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: #006E0E;
+}
