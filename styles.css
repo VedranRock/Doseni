@@ -3,34 +3,37 @@
 }
 
 .pageTitle {
-    font-size: 100px;
+    font-size: 90px;
     font: bolder;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Brush Script MT, Brush Script Std, cursive';
     text-align: center;
 }
 
 .partner1 {
-    font-size: 50px;
+    font-size: 40px;
     font: bolder;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Brush Script MT, Brush Script Std, cursive';
     text-align: left;
     width: 50%;
     float: left;
+    padding-left: 20px;
 }
 
 .partner2 {
-    font-size: 50px;
+    font-size: 40px;
     font: bolder;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Brush Script MT, Brush Script Std, cursive';
     text-align: left;
     width: 50%;
     float: right;
+    padding-left: 20px;
 }
 
 .deca {
-    font-size: 50px;
+    font-size: 40px;
     font: bolder;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Brush Script MT, Brush Script Std, cursive';
     text-align: left;
     color: #006E0E;
+    padding-left: 70px;
 }
