@@ -1,12 +1,12 @@
 .pageTitle {
-    font-size: 72px;
+    font-size: 100px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
 
 .partner1 {
-    font-size: 22px;
+    font-size: 50px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
@@ -15,7 +15,7 @@
 }
 
 .partner2 {
-    font-size: 22px;
+    font-size: 50px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
@@ -24,7 +24,7 @@
 }
 
 .deca {
-    font-size: 22px;
+    font-size: 50px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
