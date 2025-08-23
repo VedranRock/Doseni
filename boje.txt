@@ -1,0 +1,5 @@
+tamno zelena - #006E0E
+svetlo zelena - #00CF1C
+tamno plava - #090073
+svetlo plava - #1F50FF
+crvena - #A81D1D
