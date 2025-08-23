@@ -5,14 +5,14 @@
 .pageTitle {
     font-size: 90px;
     font: bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
 
 .partner1 {
     font-size: 40px;
     font: bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align: left;
     width: 50%;
     float: left;
@@ -21,7 +21,7 @@
 .partner2 {
     font-size: 40px;
     font: bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align: left;
     width: 50%;
     float: right;
@@ -30,7 +30,7 @@
 .deca {
     font-size: 40px;
     font: bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align: left;
     color: #006E0E;
     padding-left: 70px;
