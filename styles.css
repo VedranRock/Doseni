@@ -5,9 +5,20 @@
     text-align: center;
 }
 
-.person {
+.partner1 {
     font-size: 22px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
+    width: 50%;
+    float: left;
+}
+
+.partner2 {
+    font-size: 22px;
+    font: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    width: 50%;
+    float: right;
 }
