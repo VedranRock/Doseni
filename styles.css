@@ -5,34 +5,32 @@
 .pageTitle {
     font-size: 90px;
     font: bolder;
-    font-family: 'Brush Script MT, Brush Script Std, cursive';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
 .partner1 {
     font-size: 40px;
     font: bolder;
-    font-family: 'Brush Script MT, Brush Script Std, cursive';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     width: 50%;
     float: left;
-    padding-left: 20px;
 }
 
 .partner2 {
     font-size: 40px;
     font: bolder;
-    font-family: 'Brush Script MT, Brush Script Std, cursive';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     width: 50%;
     float: right;
-    padding-left: 20px;
 }
 
 .deca {
     font-size: 40px;
     font: bolder;
-    font-family: 'Brush Script MT, Brush Script Std, cursive';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     color: #006E0E;
     padding-left: 70px;
