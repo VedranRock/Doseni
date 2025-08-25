@@ -3,14 +3,14 @@
 }
 
 .pageTitle {
-    font-size: 90px;
+    font-size: 72px;
     font: bolder;
     /* font-family: 'Courier New', Courier, monospace; */
     text-align: center;
 }
 
 .partner1 {
-    font-size: 40px;
+    font-size: 22px;
     font: bolder;
     /* font-family: 'Courier New', Courier, monospace; */
     text-align: left;
@@ -19,7 +19,7 @@
 }
 
 .partner2 {
-    font-size: 40px;
+    font-size: 22px;
     font: bolder;
     /* font-family: 'Courier New', Courier, monospace; */
     text-align: left;
@@ -28,14 +28,10 @@
 }
 
 .deca {
-    font-size: 40px;
+    font-size: 22px;
     font: bolder;
     /* font-family: 'Courier New', Courier, monospace; */
     text-align: left;
     color: #006E0E;
     padding-left: 70px;
-}
-
-.img {
-    size: 100px;
 }
