@@ -1,9 +1,16 @@
-.page {
+const 
+
+hr {
+    color: black;
+    size: 10px;
+}
+
+body {
     background-color: antiquewhite;
 }
 
 .pageTitle {
-    font-size: 100px;
+    font-size: 90px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
@@ -11,7 +18,7 @@
 }
 
 .partner1 {
-    font-size: 50px;
+    font-size: 40px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
@@ -20,7 +27,7 @@
 }
 
 .partner2 {
-    font-size: 50px;
+    font-size: 40px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
@@ -29,7 +36,7 @@
 }
 
 .deca {
-    font-size: 50px;
+    font-size: 40px;
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
@@ -49,4 +56,4 @@
     mask-repeat: no-repeat;
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
-  }
+}
