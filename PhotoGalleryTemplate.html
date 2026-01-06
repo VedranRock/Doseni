@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+</head>
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 0.2s;
+}
+
+.container {
+    padding: 2rem 5%;
+}
+
+.container .image-container {
+    columns: 15rem 3;
+    gap: 1.4rem;
+}
+
+.container .image-container img {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 0.7rem;
+}
+
+.container .image-container img:hover {
+    transform: scale(1.01);
+}
+</style>
+
+<body>
+    <h1>Photo Gallery</h1>
+    <div class="container">
+        <div class="image-container">
+            <img src="/Images/1.jpg" alt="img">
+            <img src="/Images/2.jpg" alt="img">
+            <img src="/Images/3.png" alt="img">
+            <img src="/Images/4.jpg" alt="img">
+            <img src="/Images/5.jfif" alt="img">
+            <img src="/Images/6.jpg" alt="img">
+            <img src="/Images/7.webp" alt="img">
+            <img src="/Images/8.jpg" alt="img">
+        </div>
+
+    </div>
+</body>
+
+</html>
